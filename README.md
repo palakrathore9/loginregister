@@ -1,5 +1,7 @@
 the provided code represents a Django-based web application for user authentication and profile management. It includes features such as user registration, login, logout, profile display, and profile updates. The project utilizes Django's built-in authentication views, forms, and models to create a secure and functional user authentication system.
 
+video demonstration-https://drive.google.com/file/d/1urLBajjbh60dIHWnb7UEAf7BgA4ZYlJY/view?usp=sharing
+
 section-1
 
 1. Email Verification:
